@@ -131,7 +131,8 @@ img {
         line-height: 150%;
     }
 
-    .article-content > a {
+    .article-content > a,
+    .article-content > a > h2 {
         line-height: 150%;
         font-size: 24px;
     }
